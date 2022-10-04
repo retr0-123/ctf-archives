@@ -10,6 +10,10 @@ Collection of CTF challenges.
     </thead>
     <tbody>
         <tr>
+            <td rowspan=1><a href="bytectf">bytectf</a></td>
+            <td><a href="bytectf 2022">2022</a></td>
+            <td><a href=""></a></td>
+        <tr>
             <td rowspan=7><a href="0CTF">0CTF</a></td>
             <td><a href="0CTF/2022">2022</a></td>
             <td><a href="https://ctftime.org/event/1717/tasks/">CTFtime</a></td>
