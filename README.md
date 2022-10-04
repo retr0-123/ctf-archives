@@ -10,10 +10,6 @@ Collection of CTF challenges.
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1><a href="bytectf">bytectf</a></td>
-            <td><a href="bytectf 2022">2022</a></td>
-            <td><a href=""></a></td>
-        <tr>
             <td rowspan=7><a href="0CTF">0CTF</a></td>
             <td><a href="0CTF/2022">2022</a></td>
             <td><a href="https://ctftime.org/event/1717/tasks/">CTFtime</a></td>
@@ -304,9 +300,11 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1022/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="ByteCTF">Byte</a></td>
+            <td rowspan=2><a href="ByteCTF">Byte</a></td>
             <td><a href="ByteCTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1114/tasks/">CTFtime</a></td>
+            <td><a href="ByteCTF/2022">2022</a></td>
+            <td><a href=""></a></td>
         </tr>
         <tr>
             <td rowspan=3><a href="C3CTF">C3CTF</a></td>
